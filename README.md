@@ -16,7 +16,7 @@ Passionate Java Backend Developer from India 🇮🇳
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Spring Security, JUnit & Mockito**
+- 🌱 Currently learning **Spring Boot**
 - ☕ Passionate about Java Backend Development
 - 💻 Building REST APIs using Spring Boot
 - 📚 Solving LeetCode problems regularly
