@@ -1,27 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivashankar%20KV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivashankar%20KV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=55"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivashankar KV</h1>
 
 <h3 align="center">
-Passionate Java Backend Developer from India 🇮🇳
+Aspiring Java Full Stack Developer | Java | Spring Boot | React
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Spring+Security+Learner;REST+API+Developer;LeetCode+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Spring+Security+Learner;DSA+%26+Problem+Solving;Building+Real+World+Applications"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot**
-- ☕ Passionate about Java Backend Development
-- 💻 Building REST APIs using Spring Boot
-- 📚 Solving LeetCode problems regularly
-- 🛠 Love building real-world backend projects
-- 🎯 Goal: Become a Software Engineer
+- 🎓 BCA Student passionate about Software Development.
+- ☕ Building applications using **Java and Spring Boot**.
+- ⚛️ Developing interactive frontend applications using **React**.
+- 🔗 Experienced in building and integrating REST APIs.
+- 🗄️ Working with MySQL, Hibernate and Spring Data JPA.
+- 💻 Practicing Data Structures and Algorithms using Java.
+- 🌱 Currently exploring Spring Security, Docker and Microservices.
+- 🎯 Goal: Become a skilled Java Full Stack Software Engineer.
 
 ---
 
@@ -36,84 +38,89 @@ Passionate Java Backend Developer from India 🇮🇳
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shivushankarkv37@gmail.com">
+<a href="mailto:shivashankarkv37@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript"/>
 </p>
 
-### Backend
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite"/>
 </p>
 
-### Database
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
 </p>
 
-### Tools
+### 🗄️ Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,hibernate"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🎓 Student Management System | CRUD application using Spring Boot + MySQL |
-| 👨‍💼 Employee Management System | REST API using Spring Boot |
-| 💰 Budget Tracker | React + Spring Boot |
-| 🔐 Spring Security Demo | Authentication & Authorization |
-| 📦 REST API CRUD | Spring Boot + JPA |
-| 🗄 JDBC Employee Management | Core JDBC Project |
+| Project | Technologies | Description |
+|---|---|---|
+| 🏥 Smart Hospital Management System | Java, Spring Boot, React, MySQL | Full-stack hospital management application with role-based authentication and appointment management. |
+| 🔐 Authentication Service | Java, Spring Boot, Spring Security, JWT | Secure authentication and authorization with JWT and role-based access control. |
+| 💬 Real-Time Chat Application | Spring Boot, WebSocket, React | Real-time messaging application with persistent chat functionality. |
+| 🎓 Student Management System | Java, Spring Boot, MySQL | Student CRUD operations with REST API integration. |
+| 👨‍💼 Employee Management System | Spring Boot, MySQL | Employee management REST API. |
 
 ---
 
 ## 🌱 Currently Learning
 
-- Spring Security
-- JUnit
-- Mockito
-- Docker
-- Microservices
-- Kafka
-- System Design
-- Spring AI
+- 🔐 Spring Security & JWT Authentication
+- ⚛️ Advanced React
+- 🧪 JUnit & Mockito
+- 🐳 Docker & Containerization
+- ☁️ Cloud Deployment
+- 🔄 Microservices Architecture
+- 📨 Apache Kafka & Redis
+- 🏗️ System Design
+- 🤖 Spring AI
 
 ---
 
 ## 💻 Coding Practice
 
-- ✔ LeetCode
-- ✔ Data Structures & Algorithms
-- ✔ Java
-- ✔ SQL
+- 🧩 Data Structures & Algorithms using Java
+- 💡 LeetCode Problem Solving
+- 🔍 Binary Search & Graph Algorithms
+- 🗄️ SQL & Database Queries
+- 🧠 Problem Solving & Logical Thinking
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivashankarkv37-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivashankarkv37-cell&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashankarkv37-cell&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashankarkv37-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -121,7 +128,7 @@ Passionate Java Backend Developer from India 🇮🇳
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shivashankarkv37-cell&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=shivashankarkv37-cell&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -129,14 +136,14 @@ Passionate Java Backend Developer from India 🇮🇳
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shivashankarkv37-cell&theme=tokyonight&margin-w=15&no-frame=true"/>
 </p>
 
 ---
 
 ## 💻 LeetCode
 
-<p align="left">
+<p align="center">
 <a href="https://leetcode.com/shiva_shankar0901/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -154,26 +161,27 @@ Passionate Java Backend Developer from India 🇮🇳
 
 ## 🎯 2026 Goals
 
-- 🚀 Build 20+ Spring Boot Projects
-- 🔐 Master Spring Security
-- 🐳 Learn Docker
-- ☁ Learn Cloud Deployment
-- 🧩 Learn Microservices
-- 📚 Solve 500+ LeetCode Problems
-- 💼 Get a Java Backend Developer Job
+- 🚀 Build production-ready Java Full Stack applications.
+- ⚛️ Improve React and frontend development skills.
+- 🔐 Master Spring Security and JWT.
+- 🐳 Learn Docker and deployment.
+- ☁️ Explore AWS and cloud technologies.
+- 🧩 Understand Microservices and System Design.
+- 📚 Solve 500+ DSA problems.
+- 💼 Secure a Java Full Stack Developer Internship.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Developer Mindset
 
-> "Code. Learn. Build. Repeat."
+> "Don't just write code. Build solutions that solve real-world problems."
 
 ---
 
 <p align="center">
-Thanks for visiting my profile ❤️
+Thanks for visiting my profile! ❤️
 
-⭐ Don't forget to star my repositories if you find them useful!
+⭐ Feel free to explore my repositories and connect with me!
 </p>
 
 <p align="center">
